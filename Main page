@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, intial-scale=1.0">
+        <title>The Growing Place Learning Center Inc.</title>
+        <link rel="stylesheet" href="tgpstyle.css">
+    </head>
+    
+    <body>
+        <section>
+        <header>
+            <h2> <a href="#" class="logo"><img src="https://static.wixstatic.com/media/2672a1_c941eaa8dff84d19995a0b0e7ad58f9d~mv2.png/v1/fill/w_560,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TGP-Logo-Horizontal.png"></a></h2>
+            <div class="navi">
+                <a href="tgpProgramsPage.html" >Programs</a>
+                <a href="Extracurricular.html" >Extracurricular</a>
+                <a href="#">About</a>
+                
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="info">
+                <h2>The Growing Place<br><span>Learning Center Inc.</span></h2>
+                <h3>TGP has been providing 24 years of progressive education to young learners.</h3>
+                <p>For the past years, we have been servicing the community of Fairview, Quezon City. We have opened our doors to everyone through our distance learning program.</p>
+            </div>
+        </div>
+    </section>
+    
+    <footer>
+        <div class ="footer-contacts">
+            <ul>
+                <li>
+                    <h3>The Growing Place Learning Center Inc.</h3>
+                    <br>
+                    Facebook: <a href="https://www.facebook.com/thegrowingplace/" target="_blank">https://www.facebook.com/thegrowingplace/</a> 
+                    <br>
+                    Email: <a href="thegrowingplaceph@gmail.com" target="_blank">thegrowingplaceph@gmail.com</a>
+                    <br>
+                    Telephone No.: +89389536
+                </li>
+            </ul>
+        </div>
+        </footer>
+    </body>
+</html>
